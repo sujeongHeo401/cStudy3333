@@ -27,5 +27,17 @@
     <ClCompile Include="ageDiff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="calAge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="extractNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="restoreStr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="checkParenthesis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
