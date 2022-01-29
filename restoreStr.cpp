@@ -1,11 +1,9 @@
 #include <stdio.h>
-
-using namespace std;
 int main() {
 	//freopen("input.txt", "rt", stdin);
 	char a[101], b[101];
 	int i, p = 0;
-	gets(a);
+	gets_s(a, 101);
 	for (i = 0; a[i] != '\0'; i++) {
 		if (a[i] != ' ') {
 			if (a[i] >= 65 && a[i] <= 90) {
